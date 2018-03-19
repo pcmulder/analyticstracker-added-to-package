@@ -1,0 +1,11 @@
+{
+  "name": "analyticstracker-added-to-package",
+  "version": "1.0.0",
+  "description": "showcase for package.json bug",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "analyticstracker": "bitbucket.org:xploregroup/xploregroup-webanalytics-analyticstracker.git"
+  }
+}
